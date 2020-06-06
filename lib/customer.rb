@@ -22,6 +22,4 @@ end
 def waiters
   meals.map {|meal| meal.waiter}
 end
-terrance.waiters.last.name
-end
 end
