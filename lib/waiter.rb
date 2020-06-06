@@ -24,6 +24,6 @@ attr_accessor :name, :yrs_experience
    meal_a.tip <=> meal_b.tip}
  end.customer
 end
-end
+
 
 
